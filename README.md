@@ -2,6 +2,8 @@
 
 Trigger the Slack message to light up the Philips Hue Smart Bulb.
 
+![example](example.gif)
+
 ## Requirements
 
 - Slack
@@ -15,3 +17,8 @@ Trigger the Slack message to light up the Philips Hue Smart Bulb.
 - Philips Hue Bridge IP address
 - Philips username and device id
   - [Philips Hue Developer: Getting started](https://developers.meethue.com/develop/get-started-2/)
+
+## Reference
+
+- [Doarakko/release-party](https://github.com/Doarakko/release-party)
+- [職場を明るくする](https://devblog.thebase.in/entry/work-happy)
